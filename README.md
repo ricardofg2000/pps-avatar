@@ -6,7 +6,7 @@ This is a *first contact* git project for students at CECETI (IES Valle del Jert
 
 You can download the project doing:
 
-    $ git clone https://github.com/marioalfonsolasso/pps-avatar.git
+    $ git clone git@github.com:marioalfonsolasso/pps-avatar.git
     $ cd welcome
 
 If you have PHP installed in your system, you can start the PHP embedded mini server by excecuting that inside the ``welcome`` folder:
